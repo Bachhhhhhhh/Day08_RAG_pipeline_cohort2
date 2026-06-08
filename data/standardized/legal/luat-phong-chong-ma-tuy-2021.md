@@ -1,3 +1,9 @@
+# luat-phong-chong-ma-tuy-2021
+
+**Nguồn file:** luat-phong-chong-ma-tuy-2021.pdf
+
+---
+
 4
 
 CÔNG BÁO/Số 567 + 568/Ngày 30-4-2021
@@ -1658,3 +1664,4 @@ kỳ họp thứ 11 thông qua ngày 30 tháng 3 năm 2021.
 CHỦ TỊCH QUỐC HỘI
 
 Nguyễn Thị Kim Ngân
+

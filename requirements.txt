@@ -1,20 +1,20 @@
 # Core
 python-dotenv>=1.0.0
 requests>=2.31.0
+beautifulsoup4>=4.12.0   # Task 2/3 - HTML parsing & crawler fallback
 
 # Task 2 - Crawling
-crawl4ai>=0.3.0
+# crawl4ai>=0.3.0        # KHÔNG cài được trên Python 3.14 -> dùng requests+bs4 fallback
 
-# Task 3 - Document conversion (PDF support is required by the assignment)
+# Task 3 - Document conversion
 markitdown[pdf]>=0.1.0
-pdfminer-six>=20251230
-pdfplumber>=0.11.0
+pypdf>=4.0.0             # fallback trích text PDF
 
 # Task 4 - Chunking & Indexing
 langchain-text-splitters>=0.2.0
 sentence-transformers>=2.2.0
-weaviate-client>=4.5.0
-# chromadb>=0.4.0        # Alternative
+chromadb>=0.5.0          # vector store dùng chính (local, không cần Docker)
+# weaviate-client>=4.5.0 # Alternative (cần Docker/Cloud)
 # faiss-cpu>=1.7.4       # Alternative
 
 # Task 6 - BM25

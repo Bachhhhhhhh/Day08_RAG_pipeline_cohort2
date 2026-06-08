@@ -1,19 +1,30 @@
-# Diễn viên hài Hữu Tín bị cáo buộc tổ chức chơi ma tuý - Báo VnExpress
+# Sao Việt bị bắt, ngồi tù, mất danh tiếng vì chất cấm
 
-**Source:** https://vnexpress.net/dien-vien-hai-huu-tin-bi-cao-buoc-to-chuc-choi-ma-tuy-4477400.html
-
-**Crawled:** 2026-06-08T04:52:40.039444+00:00
+**Source:** https://vietnamnet.vn/sao-viet-bi-bat-ngoi-tu-mat-danh-tieng-vi-chat-cam-2513746.html
+**Crawled:** 2026-06-08T10:52:48.890983
 
 ---
 
-# Diễn viên hài Hữu Tín bị cáo buộc tổ chức chơi ma tuý - Báo VnExpress
+Nam ca sĩ Hải Đăng Doo là tâm điểm quan tâm trên mạng xã hội 2 ngày qua sau khi xuất hiện loạt hình ảnh và clip nghi vấn tiệc tùng tại khách sạn ở Đà Nẵng cùng Lou Hoàng và một số cô gái. Tính đến thời điểm hiện tại, Hải Đăng Doo và Lou Hoàng chưa có phản hồi chính thức trên mạng xã hội hay với truyền thông.
 
-Ngày 17/6, Hữu Tín và Nguyễn Hoàng Phi, 32 tuổi, bị Công an quận 8 khởi tố, bắt tạm giam về hành vi Tàng trữ trái phép chất ma tuý và Tổ chức sử dụng trái phép chất ma túy.
-Hữu Tín tại cơ quan điều tra. Ảnh: Công an cung cấp
-Theo điều tra, Hữu Tín cùng nhóm bạn đến quán bar ở quận 1 chơi, mua ma túy sử dụng. Còn thừa, nam diễn viên đem về chờ có dịp mang ra sử dụng.
-Đêm 11/6, Hữu Tín, Phi cùng 4 người khác tổ chức sử dụng ma túy tại căn hộ ở quận 8 thì bị cảnh sát ập vào bắt quả tang. Hữu Tín và cùng 2 người dương tính với chất ma túy.
-Khám xét căn hộ, cảnh sát tìm thấy hai gói nylon có 11 viên ma túy dạng nén, đĩa sành đựng ma tuý đá và một số tang vật khác...
-Hữu Tín là trưởng nhóm hài XPro - từng đạt giải Quán quân Cười xuyên Việt - Tiếu lâm hội 2016.
-Quốc Thắng
-Diễn viên hài Hữu Tín bị điều tra hai tội
-Diễn viên hài bị tạm giữ vì 'liên quan ma tuý'
+Việc các nghệ sĩ là người nổi tiếng của showbiz Việt từng bị bắt, ngồi tù, mất danh tiếng vì chất cấm những năm qua vẫn luôn là câu chuyện được khán giả nhắc đến. VietNamNet xin được điểm lại những sao Việt từng phải trả giá về cuộc sống buông thả của mình.
+
+Tháng 4/2007, diễn viên hài Hiệp Gà bị công an phường Phương Liên, Hà Nội bắt quả tang tàng trữ heroin. Tại cơ quan điều tra, anh khai đã nghiện ma túy khoảng 4-5 tháng. Ngày 31/7/2007, TAND quận Đống Đa tuyên phạt Hiệp Gà 24 tháng tù giam về tội tàng trữ trái phép chất ma túy.
+
+Từ một nghệ sĩ hài nổi tiếng với Gặp nhau cuối tuần , sau khi ra tù Hiệp Gà chỉ còn có thể tham gia các tiểu phẩm hài, phim ngắn chiếu trên mạng hoặc diễn ở các tụ điểm giải trí để mưu sinh.
+
+Ngày 5/3/2018, khi ca sĩ Châu Việt Cường cùng nhóm bạn sử dụng ma túy đá. Trong cơn ảo giác, anh tự ăn và nhét hơn 30 nhánh tỏi, củ tỏi có kích thước lớn vào miệng cô gái H. khiến nạn nhân tử vong vì ngạt thở. Tháng 3/2019, TAND thành phố Hà Nội tuyên phạt Châu Việt Cường 13 năm tù về tội giết người. Tại phúc thẩm tháng 8/2019, TAND cấp cao tại Hà Nội chấp nhận kháng cáo và giảm xuống còn 11 năm tù. Sáng 5/1/2025, Châu Việt Cường được ra tù trước thời hạn sau hơn 6 năm thụ án.
+
+Sáng 11/6/2022, Công an Phường 5, Quận 8 (cũ) kiểm tra hành chính căn hộ tại chung cư Giai Việt, bắt quả tang diễn viên hài Hữu Tín cùng nhóm bạn đang sử dụng ma túy. Tại phiên tòa ngày 28/4/2023, TAND Quận 8, TPHCM tuyên phạt Hữu Tín 7 năm 6 tháng tù về tội tổ chức sử dụng trái phép chất ma túy. Trước đó không lâu, ngày 23/4/2023, nữ diễn viên Lệ Hằng - từng nổi tiếng qua các phim truyền hình Xin hãy tin em bị khởi tố vì mua bán trái phép chất ma túy.
+
+Tháng 6/2024, ca sĩ Chu Bin bị bắt khi công an phát hiện anh cùng 5 người khác đang sử dụng ma túy tại một căn nhà ở Quận 10, TPHCM. Cùng tháng, người mẫu Nhikolai Đinh bị Công an Quận 1 (cũ) khởi tố, bắt tạm giam để điều tra về hành vi tàng trữ trái phép chất ma túy. Thời điểm bị bắt, Nhikolai Đinh cùng 9 người khác bị phát hiện có nhiều gói ma túy trên người, kết quả test nhanh dương tính với ma túy.
+
+Tháng 11/2024, ca sĩ Chi Dân (tên thật Nguyễn Trung Hiếu) cùng người mẫu kiêm diễn viên Andrea Aybar (An Tây) bị Công an TPHCM khởi tố, bắt tạm giam về tội tổ chức sử dụng trái phép chất ma túy. Riêng Andrea Aybar còn bị khởi tố thêm tội tàng trữ trái phép chất ma túy.
+
+Tối 23/6/2025, Công an TPHCM phát hiện NTK Nguyễn Công Trí và Trần Phú Long cùng nhau sử dụng trái phép chất ma túy tại nhà riêng ở Phường Tân Hưng, TPHCM. Khám xét nơi ở, công an thu giữ nhiều vật dụng nghi dùng để sử dụng ma túy như đĩa sứ, tiền cuộn tròn và thẻ nhựa. Ngày 23/7/2025, cơ quan công an chính thức công bố triệt phá toàn bộ đường dây mua bán, sử dụng ma túy có liên quan.
+
+Không chỉ là tên tuổi lớn trong ngành thời trang, Nguyễn Công Trí còn được ví như "anh cả làng mốt Việt" - người góp phần định hình bản sắc thời trang Việt Nam trên trường quốc tế, từng hợp tác với nhiều ngôi sao nổi tiếng như Beyoncé, Rihanna, Katy Perry. Vì vậy, việc anh vướng vào ma túy không chỉ khiến giới chuyên môn bất ngờ mà còn làm công chúng sụp đổ niềm tin.
+
+Tháng 7/2025, rapper Bình "Gold" bị bắt giữ để điều tra hành vi cướp tài sản. Qua kiểm tra, Bình "Gold" được xác định dương tính với chất ma túy. Trước đó, cảnh sát giao thông đã dừng xe anh và phát hiện dương tính với cần sa và ketamin khi đang lái xe.
+
+Nhìn lại chuỗi sự việc kéo dài gần 20 năm, từ Hiệp Gà đến Nguyễn Công Trí và những nghi vấn mới nhất chưa lắng xuống, có một điểm chung đáng lo ngại: hầu hết đều đang ở giai đoạn sự nghiệp tốt hoặc có tên tuổi nhất định. Cái giá của một lần sa ngã là sự nghiệp lao đao, danh dự và sự tự do bị ảnh hưởng nặng nề.
