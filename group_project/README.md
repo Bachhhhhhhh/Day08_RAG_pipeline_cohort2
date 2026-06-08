@@ -1,5 +1,10 @@
 # Bài Tập Nhóm — Search Engine / RAG Chatbot
-
+## Thành viên nhóm
+2A202600896 - Đặng Tiến Quyền
+2A202600817 - Nguyễn Thành Lộc
+2A202600708 - Dương Quang Khải
+2A202600843 - Nguyễn Hồng Phúc
+2A202600776 - Vũ Xuân Bách
 ## Mục Tiêu
 
 Sau khi hoàn thành bài cá nhân, nhóm ngồi lại để xây dựng **1 trong 2 sản phẩm**:
@@ -170,8 +175,46 @@ run_dashboard()
 
 ## Kiến Trúc Hệ Thống
 
-```
-[Vẽ diagram kiến trúc ở đây]
+```mermaid
+flowchart TD
+    %% 1. Data Ingestion Layer
+    subgraph Data Ingestion
+        D1[Legal Docs PDF/DOCX] --> |Task 1| MD[Task 3: MarkItDown Converter]
+        D2[News Articles] --> |Task 2| MD
+        MD --> C[Task 4: Text Splitter & Embedding]
+        C --> VS[(Vector Database)]
+        MD --> BM25[(BM25 Local Index)]
+    end
+
+    %% 2. User Interface
+    User((User)) -->|Query| UI[Streamlit / Chainlit UI]
+
+    %% 3. Retrieval Layer
+    subgraph Retrieval Pipeline Task 9
+        UI -->|Query| Router
+        Router --> SS[Task 5: Semantic Search]
+        Router --> LS[Task 6: Lexical Search]
+        SS --> VS
+        LS --> BM25
+        VS -.-> |Dense Chunks| Merge[Merge Results]
+        BM25 -.-> |Sparse Chunks| Merge
+        Merge --> RR[Task 7: Reranking]
+        RR --> Check{Score < Threshold?}
+        Check -- Yes --> FB[Task 8: PageIndex Vectorless]
+        Check -- No --> Output[Top-K Context Chunks]
+        FB --> Output
+    end
+
+    %% 4. Generation Layer
+    subgraph Generation Task 10
+        Output --> Reorder[Document Reordering]
+        UI -->|Query| PromptBuilder[Prompt Injection]
+        Reorder --> PromptBuilder
+        PromptBuilder --> LLM((LLM GPT-4o-mini))
+        LLM --> Answer[Answer with Citations]
+    end
+
+    Answer --> UI
 ```
 
 ---
@@ -180,10 +223,11 @@ run_dashboard()
 
 | Thành viên | MSSV | Nhiệm vụ | Trạng thái |
 |-----------|------|----------|------------|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| Quyền |2A202600896 | Frontend | Đã xong |
+| Phúc |2A202600843  | API/ backend/ fastAPI/ swagger UI | Đã xong |
+| Khải |2A202600708  | Requirement / Test | Đã xong |
+| Bách |2A202600776  | RAG Evaluation Pipeline | Đã xong |
+| Lộc |2A202600817 | Gộp pipeline, dữ liệu | Đã xong |
 
 ---
 
