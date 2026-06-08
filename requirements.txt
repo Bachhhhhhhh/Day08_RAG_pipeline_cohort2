@@ -14,7 +14,7 @@ pypdf>=4.0.0             # fallback trích text PDF
 langchain-text-splitters>=0.2.0
 sentence-transformers>=2.2.0
 chromadb>=0.5.0          # vector store dùng chính (local, không cần Docker)
-# weaviate-client>=4.5.0 # Alternative (cần Docker/Cloud)
+weaviate-client>=4.5.0   # Required by the preserved individual src pipeline
 # faiss-cpu>=1.7.4       # Alternative
 
 # Task 6 - BM25
